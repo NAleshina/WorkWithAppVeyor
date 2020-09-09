@@ -1,1 +1,1 @@
-# SettingCI [![Build status](https://ci.appveyor.com/api/projects/status/hd4hd7b5sba4q79g?svg=true)](https://ci.appveyor.com/project/NAleshina/settingci)
+# SettingCI [![Build status](https://ci.appveyor.com/api/projects/status/14l4rog1l5eql9ok?svg=true)](https://ci.appveyor.com/project/NAleshina/workwithappveyor)
